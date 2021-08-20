@@ -4,7 +4,8 @@ generators/*
 *firebase*
 
 # Brave token
- public/.well-known/brave-rewards-verification.txt
+public/.well*
+
 
 # Logs
 logs
